@@ -29,5 +29,6 @@ A simple React-based shopping cart application built with Tailwind CSS. This app
    cd my-project
    npm install
 2.**Run the App**
+   ```bash
    npm run dev
    server will start on localhost:5173
